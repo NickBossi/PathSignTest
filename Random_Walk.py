@@ -36,5 +36,5 @@ def random_walk(m,n,pho, mean = 0, sd = 1):
     
     return(walk)
 
-ran_walk = random_walk(2,100,0.5)
-print(ran_walk)
+#ran_walk = random_walk(2,100,0.5)
+#print(ran_walk)
